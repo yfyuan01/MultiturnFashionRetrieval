@@ -7,6 +7,8 @@ This dataset is a multiturn conversational fashion image retrieval dataset with 
 The dataset contains three categories, dress, shirt, toptee, namely. All the dataset files are stored in the data/ folder.
 
 The images can be downloaded from [here](https://www.cnblogs.com/sxdcgaq8080/p/9045624.html).
+# About the code
+The code will be released on this page. Pls stay tuned.
 
 
 
