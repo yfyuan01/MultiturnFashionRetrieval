@@ -11,7 +11,7 @@ The associated fashion attribute files are stored in attr/ folder.
 
 The images can be downloaded from [here](https://www.cnblogs.com/sxdcgaq8080/p/9045624.html).
 # About the code
-The code will be released on this page. Pls stay tuned.
+The code is updated on the Master branch.
 
 # Citations
 If you find this useful, please cite
