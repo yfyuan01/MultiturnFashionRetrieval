@@ -9,9 +9,9 @@ The dataset contains three categories, dress, shirt, toptee, namely. All the dat
 
 The associated fashion attribute files are stored in attr/ folder.
 
-The images can be downloaded from [here](https://drive.google.com/file/d/1aSv1dQTPQ-rwkUvjusaZjrwQF4lT2-Xn/view?usp=sharing).
+The images can be downloaded from [here](https://drive.google.com/file/d/1pivWpO3_vpMLhySmQc9w53i9Tp0ib1lg/view?usp=sharing).
 # About the code
-The code will be released on this page. Pls stay tuned.
+The code is available in the master branch. 
 
 # Citations
 If you find this useful, please cite
